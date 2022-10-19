@@ -1,4 +1,4 @@
-.place__website_link {
+.place__link {
   color: inherit;
   font-size: 18px;
   line-height: 22px;
@@ -6,12 +6,12 @@
   transition: opacity .4s ease;
 }
 
-.place__website_link:hover {
+.place__link:hover {
   opacity: .8;
 }
 
 @media screen and (max-width: 320px) {
-  .place__website_link {
+  .place__link {
     padding-left: 16px;
   }
 }

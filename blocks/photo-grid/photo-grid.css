@@ -5,9 +5,6 @@
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   gap: 16px;
   margin: auto;
-  background-color: #2A2C2F;
-  font-family: 'Inter', Arial, sans-serif;
-  color: #FFF;
 }
 
 @media screen and (max-width: 1024px) {

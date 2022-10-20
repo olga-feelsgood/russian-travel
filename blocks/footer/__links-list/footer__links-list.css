@@ -1,0 +1,9 @@
+.footer__links-list {
+  padding-bottom: 0;
+}
+
+@media screen and (max-width: 500px) {
+  .footer__links-list {
+    padding-bottom: 32px;
+  }
+}

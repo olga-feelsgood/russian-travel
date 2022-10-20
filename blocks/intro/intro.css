@@ -1,7 +1,4 @@
 .intro {
-  background-color: #2A2C2F;
-  font-family: 'Inter', Arial, sans-serif;
-  color: #fff;
   display: flex;
   max-width: 984px;
   flex-direction: column;

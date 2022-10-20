@@ -1,7 +1,6 @@
 .footer__link {
   text-decoration-line: none;
   color: inherit;
-  display: inline-block;
   padding-right: 18px;
   font-size: 16px;
   line-height: 18px;
@@ -13,9 +12,8 @@
   opacity: .8;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
   .footer__link {
-    margin-bottom: 32px;
     font-size: 24px;
     line-height: 24px;
   }

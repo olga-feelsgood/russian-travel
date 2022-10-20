@@ -1,7 +1,4 @@
 .footer {
-  background-color: #2A2C2F;
-  font-family: 'Inter', Arial, sans-serif;
-  color: #FFF;
   display: flex;
   max-width: 1184px;
   justify-content: space-between;
@@ -24,11 +21,16 @@
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 704px) {
   .footer {
     flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .footer {
     padding-left: 16px;
     padding-right: 16px;
-    align-items: flex-start;
   }
 }

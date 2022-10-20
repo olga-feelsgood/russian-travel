@@ -1,9 +1,6 @@
 .places {
-  background-color: #2A2C2F;
-  font-family: 'Inter', Arial, sans-serif;
-  color: #FFF;
   max-width: 984px;
-  margin: auto;
+  margin: 0 auto;
   padding-bottom: 92px;
 }
 
